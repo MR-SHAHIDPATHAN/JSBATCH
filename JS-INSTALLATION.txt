@@ -1,0 +1,45 @@
+HOW TO RUN JS IN VS CODE
+-----------------------------------
+step -1 : download node js and install it.
+            - after installation checking 
+            - open CMD and Type: (node -v ) enter
+            - if you see versions like 18.16.02 it means done 
+
+
+
+step 2 : Create Folder and open in VS Code :
+          - create new FILE ( index.js ) 
+          - type simple code >> console.log("hello world");
+
+HOW TO RUN THIS FILE 
+--------------------------------
+step 3 : Open  vs code terminal 
+          - you can see folder path on it then type our file name 
+          - examples : E:Desktop/JSBATCH node index.js
+          - output : hello world 
+
+HOW TO ON/ OFF TERMINAL ;
+----------------------------------
+PRSS : CTRL + ` (this symbol near to 1 ) 
+
+
+HOW TO INSTALL NODEMON 
+-----------------------------------
+- open terminal and type it 
+- npm i -g nodemon 
+- after installation 
+RUN FILE WITH NODEMON 
+ type again :
+  " nodemon index.js "
+
+you see errors in red color don't worry -
+ HOW TO SOLVE THIS ERROR : 
+  - follow red color errors  path like C:user/roamming/npm/nodemon.ps1 file is disables:
+
+FOLLOW PATH ON YOUR SYSYTEM AND DELETE [ nodemon.ps1 file]
+
+after Delete this file again run file with nodemon 
+ type : nodemon index.js
+  finally see your OUTPUT HERE ENJOY IT :  
+      
+
