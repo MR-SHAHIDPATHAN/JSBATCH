@@ -222,12 +222,6 @@
 
 
 
-
-
-
-
-
-
   
 //controll statements  cooming soon 
 
@@ -382,8 +376,6 @@
 
 
 
-
-
 // 1st without break statment 
 // Find the Area of circle, triangle and rectangle?
 
@@ -458,9 +450,6 @@
 
 
 
-
-
-
 // 4️⃣ While Loop Statement
 // The while statement creates a loop that executes a specified statement 
 // as long as the test condition evaluates to true. 
@@ -494,7 +483,6 @@
 //   num++; // itteration  // 1 + 1 == 2  2 + 1 = 3   10 + 1 = 11 
 
 // }
-
 
 
 // do{
@@ -552,12 +540,6 @@
 // }
 
 
-
-
-
-
-
-
 // for(var num = 1;   num <= 10;  num++ ){
 // //     console.log("karad");
 //     console.log(num);
@@ -573,21 +555,176 @@
 // }
 
 
-
-
-
 // tableof 8 
 // output 8*1=8
 // output 8*2=16
 // output 8*3=24
 
-var tableof = 12;
-for(var i=1;  i<= 10;  i++){
-    // console.log( tableof + "*" + i + "=" +  tableof*i );
+// var tableof = 12;
+// for(var i=1;  i<= 10;  i++){
+//     console.log( tableof + "*" + i + "=" +  tableof*i );
+//     console.log(   ` ${tableof} and  ${i} and  ${tableof*i} `    );
 
-    console.log(   ` ${tableof} and  ${i} and  ${tableof*i} `    );
+// }
 
-}
+
+
+
+// functions js  : 
+
+
+// task  
+// whatsapp : 
+// login  
+// chat 
+// register 
+
+
+
+// button >>> login >> code 100 line 
+
+// button >>> register >> code 50 line 
+
+
+// function , paramters , arguments  , return 
+// DRY  
+
+//  function sum (){
+//    console.log("sum");
+
+//  }
+
+//  sum();
+
+
+// 20 30 40 
+// 200  300 400 
+// 500 500 300
+
+
+// var c = 30;
+// function sum (){
+//     var a = 10;
+//     var b = 20;
+
+//     var total = a + b + c;
+//     console.log(total);
+// }
+
+// sum();
+ 
+
+
+
+
+// function sum (a,b=200){
+     
+//      var total = a+b;
+//      console.log(total);
+
+
+// }
+
+// sum(100, 200);
+
+
+
+
+// 50 50 
+
+//   function sum(a ,b){
+
+//      return a + b; 
+
+//   }
+//    var total = sum(20 , 30);
+//    var result = sum(50 , 50);
+//   console.log(total);
+//   console.log(result);
+
+  // fat arrow functions : 
+
+//   function sum (){
+
+//   }
+//   sum();
+
+
+//   var sum = (( a, b)=>{
+//      return a + b;
+
+//   })
+
+//    var total = sum(20 , 30);
+//    console.log(total);
+
+
+//   var sub = (()=>{
+
+//   })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
